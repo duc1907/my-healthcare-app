@@ -1,0 +1,10 @@
+Flask
+mysql-connector-python
+Flask-SQLAlchemy
+Flask-Migrate
+PyMySQL
+python-dotenv
+web3
+mysqlclient
+flask-cors
+jwt
